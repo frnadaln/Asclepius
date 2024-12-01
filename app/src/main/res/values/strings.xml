@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Analysis Result</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="history">History</string>
+    <string name="image_desc">News</string>
+    <string name="error">No articles available</string>
+    <string name="empty">No prediction history</string>
+    <string name="delete">Delete</string>
+    <string name="confidence_score">Confidence Score</string>
+    <string name="predict_result">Result</string>
+    <string name="description">image</string>
+    <string name="save">Save to History</string>
+</resources>

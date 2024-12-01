@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna dasar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna utama dan sekunder untuk tema aplikasi -->
+    <color name="primaryColor">#F3E683BC</color>
+    <color name="primaryDarkColor">#E6EB6DB6</color>
+    <color name="secondaryColor">#60AEE6</color>
+
+    <!-- Warna latar belakang -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="lightGray">#E0E0E0</color>
+    <color name="imageBackground">#D1C4E9</color>
+</resources>
